@@ -1,0 +1,63 @@
+
+#Header {
+    border-bottom-style: solid;
+    border-bottom-width: medium;
+    border-bottom-color: black;
+    background-color: cornflowerblue;
+    color: aliceblue;
+    font-family: monospace;
+    margin: 0px;
+    padding: 20px;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+h3 {
+    margin: 0px;
+    font-size: 2em;
+    padding-bottom: 20px;
+}
+
+lable {
+        padding-bottom: 15px;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+#modelSearch {
+    margin-left: 7px;
+}
+
+button {
+    border-radius: 10px;
+    background-color: cornflowerblue;
+    border-style: solid;
+    border-color: black;
+    color: aliceblue;
+    padding: 10px;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+#sale{
+    border-style: solid;
+    background-color: floralwhite;
+    margin: 20px;
+    border-width: thin;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    color: black;
+    font-family: sans-serif;
+}
+
+i{
+    margin-right: 50px;
+    font-style: normal;
+    margin-bottom: 10px;
+}
